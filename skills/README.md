@@ -29,3 +29,8 @@
  
 ## WordPress
 - Become a WordPress Developer (https://www.lynda.com/search?q=wordpress&f=producttypeid%3a2016)
+
+
+
+## Social Media
+- [Hubspot](https://academy.hubspot.com/courses/social-media)
